@@ -1,1 +1,1 @@
-export { default as MyComponent } from './components/MyComponent'
+export { default as BackgroundImage } from './components/BackgroundImage'
